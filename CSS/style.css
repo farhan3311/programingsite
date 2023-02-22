@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: lightsalmon;
+    background-color: antiquewhite;
+    padding: 2%;
+    box-shadow:  3 3 3 3;
+}
+.ol-class li {
+    padding: 1%;
+    font-size: large;
+    text-decoration: none;
+    list-style: none;
+}
